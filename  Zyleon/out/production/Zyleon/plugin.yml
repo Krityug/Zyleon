@@ -1,0 +1,26 @@
+name: Zyleon
+description: Advanced Profile Manager
+version: 1.5.5
+main: me.starboy.util.Main
+commands:
+  starterkit:
+    description: Starter kit command
+    usage: /yt
+  ultra:
+      description: Ultra Kit Command
+      usage: /ultra
+  beta:
+    description: BETA command
+    usage: /beta
+  iamhungry:
+    description: Hungry Command
+    usage: /iamhungry
+  island:
+    description: Island Panel Main Command works same as /panel.
+    usage: /island
+  panel:
+    description: Panel is a alliases for /island. A short information about the system coming soon!
+    usage: /panel
+  encrypt:
+    description: This command encrypts your currency to protect it from being spent by you or some else in your account. In order to access you have to ask a Staff Member.
+    usage: /encrypt
